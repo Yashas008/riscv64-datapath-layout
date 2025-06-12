@@ -74,6 +74,16 @@ All cells are verified using    Assura DRC and LVS   , and exported as clean GDS
 
 I do plan on pasting the entirety of the library here once I have completely done the processor.
 
+🎯 Current Focus
+
+This phase of the project focuses on:
+ Building custom layout blocks for a 64-bit RISC-V datapath
+ Understanding and resolving DRC, LVS, and RCX errors
+ Mastering Cadence Virtuoso workflows
+ GDS export and documentation
+
+Testbenches and simulation infrastructure will be added in later stages.
+
 
    🔍 Viewing the GDS Files
 
