@@ -72,6 +72,7 @@ All cells are verified using    Assura DRC and LVS   , and exported as clean GDS
 | Inverter | ✅  | ✅  | ✅         | Clean and minimal |
 | NOR      | ✅  | ✅  | ✅         | Ready for datapath use |
 
+I do plan on pasting the entirety of the library here once I have completely done the processor.
 
 
    🔍 Viewing the GDS Files
