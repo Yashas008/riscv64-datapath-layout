@@ -78,3 +78,8 @@ I do plan on pasting the entirety of the library here once I have completely don
    🔍 Viewing the GDS Files
 
 You can view these layout files using [KLayout](https://www.klayout.de/):
+
+Yashas Yadav S
+USN: 1JT22EC120
+Electronics and Communication Engineering
+VTU – Jyothy Institute of Technology, Bengaluru
