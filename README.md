@@ -50,7 +50,13 @@ All cells are verified using    Assura DRC and LVS   , and exported as clean GDS
   - Series NMOS, parallel PMOS stack
   - Verified well spacing and contact placement
   - Fully functional for logic-level simulation
+    
+✅ 2-input NAND Gate
 
+- Function: NAND logic (universal gate)
+- DRC: ✅ Clean
+- LVS: ✅ Matched
+- Notes: Parallel NMOS, series PMOS configuration; pin-access optimized
 
 
    🔧 Tools & Environment
